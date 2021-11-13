@@ -1,6 +1,0 @@
-Int Main (){
-  Int x; 
-Printf("ingrese un numero: ");
-Scanf("%i",&x);
-Printf ("su numero es : %i",x);
-}
